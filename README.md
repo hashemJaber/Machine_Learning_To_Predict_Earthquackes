@@ -1,5 +1,6 @@
 # Machine_Learning_To_Predict_Earthquackes
 This is an attempt to use the findings of Wikelski m. et al 2020 to train a machine learning model to predict earth quakes within a span of 1 to 18 hours using the data they collected in Italy
+
 #Abstract:
 In the light of the recent tragedies that occured in Turkey and Syria from earthquakes that cuased the death of thousands in mere seconds 
 we are left in a frankenstien of a reminder that our lives may at a whim of a second be in threat of an event that is well beyond our means 
