@@ -11,7 +11,7 @@ by the teams of researchers from the Wikelski m. et al 2020 research study
 
 #Hypothesis:
 With a ensumbles or individual models of Recurrent Nueral Networks, Deep Neural Networks,Logestic Decision Trees, clustring models, as well as ananolmaly detection models using gausian distribution
-we may be able to build a model that predicts earhtquakes minutes or even hours before its occurence using data of average OBDA mean of cows, sheep, and dogs in the span of 15 minutes
+we may be able to build a model that predicts earhtquakes minutes or even hours before its occurence using data of average OBDA mean of cows, sheep, and dogs in the span of 15 minutes cycles
 
 Citation 
 Wikelski, M., Mueller, U., Scocco, P., Catorci, A., Desinov, L. V., Belyaev, M. Y., Keim, D., Pohlmeier, W., Fechteler, G., &amp; Martin Mai, P. (2020). 
